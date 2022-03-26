@@ -1,5 +1,5 @@
 select-configuration:
-  title: 셀렉트 어드민 with Render.com
+  title: 셀렉트 어드민 with Cloudtype.io
   menus:
     - group: 회원
       name: 고객 관리
